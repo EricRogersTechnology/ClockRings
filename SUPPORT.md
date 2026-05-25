@@ -2,7 +2,7 @@
 
 Found a bug, have a feature request, or just need help?
 
-**Email:** EricRogersTechnology@iCloud.com
+**Email:** Eric@EricRogersTechnology.com
 
 I'll do my best to respond, though as a solo developer I may not be able to reply to everyone. Bug reports with screenshots and the iOS version are most helpful.
 
