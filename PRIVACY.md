@@ -44,4 +44,4 @@ If this policy materially changes, the updated version will be posted at this UR
 
 ## Contact
 
-Questions? Email: **Eric@EricRogersTechnologycom**
+Questions? Email: **Eric@EricRogersTechnology.com**
