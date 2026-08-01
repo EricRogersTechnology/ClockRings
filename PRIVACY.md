@@ -1,3 +1,5 @@
+PRIVACY.md → [Español](https://ericrogerstechnology.com/ClockRings/PRIVACY-es.html)
+
 # Clock Rings — Privacy Policy
 
 **Last updated: June 11, 2026**
